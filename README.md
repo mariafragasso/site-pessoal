@@ -1,4 +1,8 @@
-# sou Maria Eduarda aluna do Colégio Estadual Marechal Castelo Branco, estou no 2º ensino médio.
-Esse site foi criado para falar um pouco da minha vida, eu sou fotográfa, dançarina, e professora da minha igreja.
-Gosto de sair com as minhas amigas e ir com os meus pais na igreja.
-Minha espectativa de vida, é ser uma exelente proficional na área da medicina.
+# sou aluna do colegio estadual marechal castelo branco 
+meu nome é maria vitoria taci da silva
+sou trancista
+idade:16
+eu estou criando esse site para falar sobre tranças e cabelos 
+e um pouco sobre desenhos 
+estou me proficionalizando em fazer tranças nagó
+e quero fazer curso para me aproficionar em todas as areias de cabelo e pricipalmente em cabelos cacheados.
