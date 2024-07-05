@@ -1,12 +1,12 @@
 header {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 226);
     color: rgb(1, 203, 253);
 }
 .cabecalho.imagem{
     width:30%;
 }
 .cabecalho {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 226);
     color: rgb(1, 203, 253);
     display: flex;
     justify-content: space-around;
@@ -23,7 +23,7 @@ header {
     height:20%;
 }
 .mavi{
-    background-image: linear-gradient(blueviolet,#383d58);
+    background-image: linear-gradient(rgb(226, 43, 211),#383d58);
     color: rgb(1, 203, 253)
     display: flex;
 }
