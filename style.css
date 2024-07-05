@@ -18,9 +18,9 @@ header {
     justify-content: space-around;
     font-size: 24px;
 }
-.mavi-imagem {
-    width:20%;
-    height:20%;
+.madu-imagem {
+    width:10%;
+    height:10%;
 }
 .mavi{
     background-image: linear-gradient(rgb(226, 43, 211),#383d58);
